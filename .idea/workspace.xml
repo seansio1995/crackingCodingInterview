@@ -32,11 +32,21 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="deleteMiddleNode.java" pinned="false" current-in-tab="true">
+      <file leaf-file-name="deleteMiddleNode.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/deleteMiddleNode.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="399">
-              <caret line="21" column="20" lean-forward="false" selection-start-line="21" selection-start-column="20" selection-end-line="21" selection-end-column="20" />
+            <state relative-caret-position="209">
+              <caret line="11" column="5" lean-forward="true" selection-start-line="8" selection-start-column="4" selection-end-line="11" selection-end-column="5" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="linkedListPartition.java" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/linkedListPartition.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="662">
+              <caret line="48" column="27" lean-forward="false" selection-start-line="48" selection-start-column="27" selection-end-line="48" selection-end-column="27" />
               <folding />
             </state>
           </provider>
@@ -69,6 +79,7 @@
         <option value="$PROJECT_DIR$/src/printKthToLast.java" />
         <option value="$PROJECT_DIR$/src/printKthToLast2.java" />
         <option value="$PROJECT_DIR$/src/deleteMiddleNode.java" />
+        <option value="$PROJECT_DIR$/src/linkedListPartition.java" />
       </list>
     </option>
   </component>
@@ -319,8 +330,16 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/deleteMiddleNode.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="399">
-          <caret line="21" column="20" lean-forward="false" selection-start-line="21" selection-start-column="20" selection-end-line="21" selection-end-column="20" />
+        <state relative-caret-position="209">
+          <caret line="11" column="5" lean-forward="true" selection-start-line="8" selection-start-column="4" selection-end-line="11" selection-end-column="5" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/linkedListPartition.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="662">
+          <caret line="48" column="27" lean-forward="false" selection-start-line="48" selection-start-column="27" selection-end-line="48" selection-end-column="27" />
           <folding />
         </state>
       </provider>
