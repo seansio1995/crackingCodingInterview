@@ -1,11 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="dfad61ef-51aa-4524-84db-d152caef3793" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/vcs.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/createLinkedList.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-    </list>
+    <list default="true" id="dfad61ef-51aa-4524-84db-d152caef3793" name="Default" comment="" />
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -16,14 +12,27 @@
   </component>
   <component name="FileEditorManager">
     <leaf>
-      <file leaf-file-name="createLinkedList.java" pinned="false" current-in-tab="true">
+      <file leaf-file-name="createLinkedList.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/createLinkedList.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="304">
-              <caret line="16" column="25" lean-forward="true" selection-start-line="16" selection-start-column="25" selection-end-line="16" selection-end-column="25" />
+            <state relative-caret-position="133">
+              <caret line="7" column="9" lean-forward="true" selection-start-line="1" selection-start-column="4" selection-end-line="7" selection-end-column="9" />
               <folding>
                 <element signature="e#121#122#0" expanded="true" />
                 <element signature="e#153#154#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="deleteNode.java" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/deleteNode.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="456">
+              <caret line="24" column="20" lean-forward="false" selection-start-line="24" selection-start-column="20" selection-end-line="24" selection-end-column="20" />
+              <folding>
+                <element signature="e#115#116#0" expanded="true" />
+                <element signature="e#147#148#0" expanded="true" />
               </folding>
             </state>
           </provider>
@@ -50,6 +59,7 @@
     <option name="CHANGED_PATHS">
       <list>
         <option value="$PROJECT_DIR$/src/createLinkedList.java" />
+        <option value="$PROJECT_DIR$/src/deleteNode.java" />
       </list>
     </option>
   </component>
@@ -82,6 +92,11 @@
             <path>
               <item name="crackingCodingInterview" type="b2602c69:ProjectViewProjectNode" />
               <item name="crackingCodingInterview" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="crackingCodingInterview" type="b2602c69:ProjectViewProjectNode" />
+              <item name="crackingCodingInterview" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
@@ -239,11 +254,22 @@
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/src/createLinkedList.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="304">
-          <caret line="16" column="25" lean-forward="true" selection-start-line="16" selection-start-column="25" selection-end-line="16" selection-end-column="25" />
+        <state relative-caret-position="133">
+          <caret line="7" column="9" lean-forward="true" selection-start-line="1" selection-start-column="4" selection-end-line="7" selection-end-column="9" />
           <folding>
             <element signature="e#121#122#0" expanded="true" />
             <element signature="e#153#154#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/deleteNode.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="456">
+          <caret line="24" column="20" lean-forward="false" selection-start-line="24" selection-start-column="20" selection-end-line="24" selection-end-column="20" />
+          <folding>
+            <element signature="e#115#116#0" expanded="true" />
+            <element signature="e#147#148#0" expanded="true" />
           </folding>
         </state>
       </provider>
