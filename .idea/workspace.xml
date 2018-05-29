@@ -25,7 +25,7 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="deleteNode.java" pinned="false" current-in-tab="true">
+      <file leaf-file-name="deleteNode.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/deleteNode.java">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="456">
@@ -33,6 +33,18 @@
               <folding>
                 <element signature="e#115#116#0" expanded="true" />
                 <element signature="e#147#148#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="deleteDuplicate.java" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/deleteDuplicate.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="133">
+              <caret line="7" column="17" lean-forward="false" selection-start-line="7" selection-start-column="17" selection-end-line="7" selection-end-column="17" />
+              <folding>
+                <element signature="e#281#290#0" expanded="true" />
               </folding>
             </state>
           </provider>
@@ -60,6 +72,7 @@
       <list>
         <option value="$PROJECT_DIR$/src/createLinkedList.java" />
         <option value="$PROJECT_DIR$/src/deleteNode.java" />
+        <option value="$PROJECT_DIR$/src/deleteDuplicate.java" />
       </list>
     </option>
   </component>
@@ -270,6 +283,16 @@
           <folding>
             <element signature="e#115#116#0" expanded="true" />
             <element signature="e#147#148#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/deleteDuplicate.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="133">
+          <caret line="7" column="17" lean-forward="false" selection-start-line="7" selection-start-column="17" selection-end-line="7" selection-end-column="17" />
+          <folding>
+            <element signature="e#281#290#0" expanded="true" />
           </folding>
         </state>
       </provider>
