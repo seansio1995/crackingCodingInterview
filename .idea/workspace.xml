@@ -52,11 +52,21 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="linkedListPartition2.java" pinned="false" current-in-tab="true">
+      <file leaf-file-name="linkedListPartition2.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/linkedListPartition2.java">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="589">
               <caret line="31" column="20" lean-forward="false" selection-start-line="31" selection-start-column="20" selection-end-line="31" selection-end-column="20" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="sumList.java" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/sumList.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="533">
+              <caret line="38" column="22" lean-forward="false" selection-start-line="38" selection-start-column="22" selection-end-line="38" selection-end-column="22" />
               <folding />
             </state>
           </provider>
@@ -91,6 +101,7 @@
         <option value="$PROJECT_DIR$/src/deleteMiddleNode.java" />
         <option value="$PROJECT_DIR$/src/linkedListPartition.java" />
         <option value="$PROJECT_DIR$/src/linkedListPartition2.java" />
+        <option value="$PROJECT_DIR$/src/sumList.java" />
       </list>
     </option>
   </component>
@@ -359,6 +370,14 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="589">
           <caret line="31" column="20" lean-forward="false" selection-start-line="31" selection-start-column="20" selection-end-line="31" selection-end-column="20" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/sumList.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="533">
+          <caret line="38" column="22" lean-forward="false" selection-start-line="38" selection-start-column="22" selection-end-line="38" selection-end-column="22" />
           <folding />
         </state>
       </provider>
