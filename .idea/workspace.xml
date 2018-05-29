@@ -50,11 +50,31 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="deleteDuplicate2.java" pinned="false" current-in-tab="true">
+      <file leaf-file-name="deleteDuplicate2.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/deleteDuplicate2.java">
           <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="228">
+              <caret line="12" column="5" lean-forward="true" selection-start-line="9" selection-start-column="4" selection-end-line="12" selection-end-column="5" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="printKthToLast.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/printKthToLast.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="152">
+              <caret line="8" column="50" lean-forward="false" selection-start-line="3" selection-start-column="4" selection-end-line="8" selection-end-column="50" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="printKthToLast2.java" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/printKthToLast2.java">
+          <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="437">
-              <caret line="23" column="39" lean-forward="false" selection-start-line="23" selection-start-column="39" selection-end-line="23" selection-end-column="39" />
+              <caret line="23" column="18" lean-forward="false" selection-start-line="23" selection-start-column="18" selection-end-line="23" selection-end-column="18" />
               <folding />
             </state>
           </provider>
@@ -84,6 +104,8 @@
         <option value="$PROJECT_DIR$/src/deleteNode.java" />
         <option value="$PROJECT_DIR$/src/deleteDuplicate.java" />
         <option value="$PROJECT_DIR$/src/deleteDuplicate2.java" />
+        <option value="$PROJECT_DIR$/src/printKthToLast.java" />
+        <option value="$PROJECT_DIR$/src/printKthToLast2.java" />
       </list>
     </option>
   </component>
@@ -310,8 +332,24 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/deleteDuplicate2.java">
       <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="228">
+          <caret line="12" column="5" lean-forward="true" selection-start-line="9" selection-start-column="4" selection-end-line="12" selection-end-column="5" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/printKthToLast.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="152">
+          <caret line="8" column="50" lean-forward="false" selection-start-line="3" selection-start-column="4" selection-end-line="8" selection-end-column="50" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/printKthToLast2.java">
+      <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="437">
-          <caret line="23" column="39" lean-forward="false" selection-start-line="23" selection-start-column="39" selection-end-line="23" selection-end-column="39" />
+          <caret line="23" column="18" lean-forward="false" selection-start-line="23" selection-start-column="18" selection-end-line="23" selection-end-column="18" />
           <folding />
         </state>
       </provider>
