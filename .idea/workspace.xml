@@ -62,12 +62,25 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="sumList.java" pinned="false" current-in-tab="true">
+      <file leaf-file-name="sumList.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/sumList.java">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="533">
               <caret line="38" column="22" lean-forward="false" selection-start-line="38" selection-start-column="22" selection-end-line="38" selection-end-column="22" />
               <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="sumList2.java" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/sumList2.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="-668">
+              <caret line="8" column="19" lean-forward="false" selection-start-line="8" selection-start-column="19" selection-end-line="8" selection-end-column="19" />
+              <folding>
+                <element signature="e#169#170#0" expanded="true" />
+                <element signature="e#199#200#0" expanded="true" />
+              </folding>
             </state>
           </provider>
         </entry>
@@ -102,6 +115,8 @@
         <option value="$PROJECT_DIR$/src/linkedListPartition.java" />
         <option value="$PROJECT_DIR$/src/linkedListPartition2.java" />
         <option value="$PROJECT_DIR$/src/sumList.java" />
+        <option value="$PROJECT_DIR$/src/partialSum.java" />
+        <option value="$PROJECT_DIR$/src/sumList2.java" />
       </list>
     </option>
   </component>
@@ -379,6 +394,17 @@
         <state relative-caret-position="533">
           <caret line="38" column="22" lean-forward="false" selection-start-line="38" selection-start-column="22" selection-end-line="38" selection-end-column="22" />
           <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/sumList2.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-668">
+          <caret line="8" column="19" lean-forward="false" selection-start-line="8" selection-start-column="19" selection-end-line="8" selection-end-column="19" />
+          <folding>
+            <element signature="e#169#170#0" expanded="true" />
+            <element signature="e#199#200#0" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
