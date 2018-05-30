@@ -1,3 +1,5 @@
+package LinkedList;
+
 public class deleteMiddleNode {
     // Before: a->b->c->d->e->f
     // After: a ->b->d- >e- >f

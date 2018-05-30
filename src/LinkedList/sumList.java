@@ -1,3 +1,5 @@
+package LinkedList;
+
 public class sumList {
     class LinkedListNode{
         LinkedListNode next=null;

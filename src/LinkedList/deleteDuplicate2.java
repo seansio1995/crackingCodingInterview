@@ -1,3 +1,5 @@
+package LinkedList;
+
 public class deleteDuplicate2 {
     // no buffer allowed, no hash table
 

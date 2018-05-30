@@ -1,3 +1,5 @@
+package LinkedList;
+
 import javax.sound.sampled.Line;
 
 public class linkedListPartition {

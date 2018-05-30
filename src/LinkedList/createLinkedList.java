@@ -1,3 +1,5 @@
+package LinkedList;
+
 public class createLinkedList {
     class Node {
         Node next = null;

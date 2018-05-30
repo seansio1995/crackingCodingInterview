@@ -1,3 +1,5 @@
+package LinkedList;
+
 public class linkedListPartition2 {
     class LinkedListNode{
         LinkedListNode next=null;

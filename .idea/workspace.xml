@@ -2,7 +2,19 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="dfad61ef-51aa-4524-84db-d152caef3793" name="Default" comment="">
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/sumList2.java" afterPath="$PROJECT_DIR$/src/sumList2.java" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/src/createLinkedList.java" afterPath="$PROJECT_DIR$/src/LinkedList/createLinkedList.java" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/src/deleteDuplicate.java" afterPath="$PROJECT_DIR$/src/LinkedList/deleteDuplicate.java" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/src/deleteDuplicate2.java" afterPath="$PROJECT_DIR$/src/LinkedList/deleteDuplicate2.java" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/src/deleteMiddleNode.java" afterPath="$PROJECT_DIR$/src/LinkedList/deleteMiddleNode.java" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/src/deleteNode.java" afterPath="$PROJECT_DIR$/src/LinkedList/deleteNode.java" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/src/isPanlindrome.java" afterPath="$PROJECT_DIR$/src/LinkedList/isPanlindrome.java" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/src/isPanlindrome2.java" afterPath="$PROJECT_DIR$/src/LinkedList/isPanlindrome2.java" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/src/linkedListPartition.java" afterPath="$PROJECT_DIR$/src/LinkedList/linkedListPartition.java" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/src/linkedListPartition2.java" afterPath="$PROJECT_DIR$/src/LinkedList/linkedListPartition2.java" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/src/printKthToLast.java" afterPath="$PROJECT_DIR$/src/LinkedList/printKthToLast.java" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/src/printKthToLast2.java" afterPath="$PROJECT_DIR$/src/LinkedList/printKthToLast2.java" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/src/sumList.java" afterPath="$PROJECT_DIR$/src/LinkedList/sumList.java" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/src/sumList2.java" afterPath="$PROJECT_DIR$/src/LinkedList/sumList2.java" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -15,51 +27,64 @@
   <component name="FileEditorManager">
     <leaf>
       <file leaf-file-name="isPanlindrome.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/isPanlindrome.java">
+        <entry file="file://$PROJECT_DIR$/src/LinkedList/isPanlindrome.java">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="209">
               <caret line="11" column="0" lean-forward="true" selection-start-line="4" selection-start-column="4" selection-end-line="11" selection-end-column="0" />
               <folding>
-                <element signature="e#0#1071#0" expanded="true" />
-                <element signature="e#270#271#0" expanded="true" />
-                <element signature="e#300#301#0" expanded="true" />
+                <element signature="e#0#1090#0" expanded="true" />
+                <element signature="e#289#290#0" expanded="true" />
+                <element signature="e#319#320#0" expanded="true" />
               </folding>
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="sumList2.java" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/sumList2.java">
+      <file leaf-file-name="sumList2.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/LinkedList/sumList2.java">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="570">
-              <caret line="81" column="20" lean-forward="false" selection-start-line="81" selection-start-column="20" selection-end-line="81" selection-end-column="20" />
+              <caret line="83" column="20" lean-forward="false" selection-start-line="83" selection-start-column="20" selection-end-line="83" selection-end-column="20" />
               <folding>
-                <element signature="e#169#170#0" expanded="true" />
-                <element signature="e#199#200#0" expanded="true" />
+                <element signature="e#190#191#0" expanded="true" />
+                <element signature="e#220#221#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="findIntersection.java" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/LinkedList/findIntersection.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="266">
+              <caret line="14" column="0" lean-forward="false" selection-start-line="14" selection-start-column="0" selection-end-line="14" selection-end-column="0" />
+              <folding>
+                <element signature="e#167#168#0" expanded="true" />
+                <element signature="e#197#198#0" expanded="true" />
               </folding>
             </state>
           </provider>
         </entry>
       </file>
       <file leaf-file-name="isPanlindrome2.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/isPanlindrome2.java">
+        <entry file="file://$PROJECT_DIR$/src/LinkedList/isPanlindrome2.java">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="-326">
-              <caret line="2" column="43" lean-forward="false" selection-start-line="2" selection-start-column="43" selection-end-line="2" selection-end-column="43" />
+              <caret line="4" column="43" lean-forward="false" selection-start-line="4" selection-start-column="43" selection-end-line="4" selection-end-column="43" />
               <folding>
-                <element signature="e#257#258#0" expanded="true" />
-                <element signature="e#287#288#0" expanded="true" />
-                <element signature="e#580#589#0" expanded="true" />
+                <element signature="e#278#279#0" expanded="true" />
+                <element signature="e#308#309#0" expanded="true" />
+                <element signature="e#601#610#0" expanded="true" />
               </folding>
             </state>
           </provider>
         </entry>
       </file>
       <file leaf-file-name="linkedListPartition2.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/linkedListPartition2.java">
+        <entry file="file://$PROJECT_DIR$/src/LinkedList/linkedListPartition2.java">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="589">
-              <caret line="31" column="20" lean-forward="false" selection-start-line="31" selection-start-column="20" selection-end-line="31" selection-end-column="20" />
+              <caret line="33" column="20" lean-forward="false" selection-start-line="33" selection-start-column="20" selection-end-line="33" selection-end-column="20" />
               <folding />
             </state>
           </provider>
@@ -99,6 +124,8 @@
         <option value="$PROJECT_DIR$/src/isPanlindrome.java" />
         <option value="$PROJECT_DIR$/src/isPanlindrome2.java" />
         <option value="$PROJECT_DIR$/src/sumList2.java" />
+        <option value="$PROJECT_DIR$/src/findIntersection.java" />
+        <option value="$PROJECT_DIR$/src/LinkedList/findIntersection.java" />
       </list>
     </option>
   </component>
@@ -143,6 +170,11 @@
       </pane>
       <pane id="AndroidView" />
     </panes>
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveClassesOrPackagesDialog.RECENTS_KEY">
+      <recent name="LinkedList" />
+    </key>
   </component>
   <component name="RunDashboard">
     <option name="ruleStates">
@@ -254,7 +286,6 @@
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="0" width="1280" height="800" extended-state="0" />
-    <editor active="true" />
     <layout>
       <window_info id="Palette" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
@@ -268,7 +299,7 @@
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
       <window_info id="Capture Tool" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
       <window_info id="Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.24921875" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.24921875" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="UI Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
@@ -291,39 +322,39 @@
     <watches-manager />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/src/createLinkedList.java">
+    <entry file="file://$PROJECT_DIR$/src/LinkedList/createLinkedList.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="133">
           <caret line="7" column="9" lean-forward="true" selection-start-line="1" selection-start-column="4" selection-end-line="7" selection-end-column="9" />
           <folding>
-            <element signature="e#121#122#0" expanded="true" />
-            <element signature="e#153#154#0" expanded="true" />
+            <element signature="e#142#143#0" expanded="true" />
+            <element signature="e#174#175#0" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/deleteNode.java">
+    <entry file="file://$PROJECT_DIR$/src/LinkedList/deleteNode.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="456">
           <caret line="24" column="20" lean-forward="false" selection-start-line="24" selection-start-column="20" selection-end-line="24" selection-end-column="20" />
           <folding>
-            <element signature="e#115#116#0" expanded="true" />
-            <element signature="e#147#148#0" expanded="true" />
+            <element signature="e#136#137#0" expanded="true" />
+            <element signature="e#168#169#0" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/deleteDuplicate.java">
+    <entry file="file://$PROJECT_DIR$/src/LinkedList/deleteDuplicate.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="152">
           <caret line="8" column="5" lean-forward="true" selection-start-line="5" selection-start-column="4" selection-end-line="8" selection-end-column="5" />
           <folding>
-            <element signature="e#281#290#0" expanded="true" />
+            <element signature="e#302#311#0" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/deleteDuplicate2.java">
+    <entry file="file://$PROJECT_DIR$/src/LinkedList/deleteDuplicate2.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="228">
           <caret line="12" column="5" lean-forward="true" selection-start-line="9" selection-start-column="4" selection-end-line="12" selection-end-column="5" />
@@ -331,7 +362,7 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/printKthToLast.java">
+    <entry file="file://$PROJECT_DIR$/src/LinkedList/printKthToLast.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="152">
           <caret line="8" column="50" lean-forward="false" selection-start-line="3" selection-start-column="4" selection-end-line="8" selection-end-column="50" />
@@ -339,15 +370,15 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/linkedListPartition2.java">
+    <entry file="file://$PROJECT_DIR$/src/LinkedList/linkedListPartition2.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="589">
-          <caret line="31" column="20" lean-forward="false" selection-start-line="31" selection-start-column="20" selection-end-line="31" selection-end-column="20" />
+          <caret line="33" column="20" lean-forward="false" selection-start-line="33" selection-start-column="20" selection-end-line="33" selection-end-column="20" />
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/sumList.java">
+    <entry file="file://$PROJECT_DIR$/src/LinkedList/sumList.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="533">
           <caret line="38" column="22" lean-forward="false" selection-start-line="38" selection-start-column="22" selection-end-line="38" selection-end-column="22" />
@@ -355,7 +386,7 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/printKthToLast2.java">
+    <entry file="file://$PROJECT_DIR$/src/LinkedList/printKthToLast2.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="76">
           <caret line="4" column="1" lean-forward="true" selection-start-line="1" selection-start-column="4" selection-end-line="4" selection-end-column="1" />
@@ -363,7 +394,7 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/deleteMiddleNode.java">
+    <entry file="file://$PROJECT_DIR$/src/LinkedList/deleteMiddleNode.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="209">
           <caret line="11" column="5" lean-forward="true" selection-start-line="8" selection-start-column="4" selection-end-line="11" selection-end-column="5" />
@@ -371,19 +402,19 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/isPanlindrome2.java">
+    <entry file="file://$PROJECT_DIR$/src/LinkedList/isPanlindrome2.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="-326">
-          <caret line="2" column="43" lean-forward="false" selection-start-line="2" selection-start-column="43" selection-end-line="2" selection-end-column="43" />
+          <caret line="4" column="43" lean-forward="false" selection-start-line="4" selection-start-column="43" selection-end-line="4" selection-end-column="43" />
           <folding>
-            <element signature="e#257#258#0" expanded="true" />
-            <element signature="e#287#288#0" expanded="true" />
-            <element signature="e#580#589#0" expanded="true" />
+            <element signature="e#278#279#0" expanded="true" />
+            <element signature="e#308#309#0" expanded="true" />
+            <element signature="e#601#610#0" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/linkedListPartition.java">
+    <entry file="file://$PROJECT_DIR$/src/LinkedList/linkedListPartition.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="114">
           <caret line="6" column="5" lean-forward="true" selection-start-line="3" selection-start-column="4" selection-end-line="6" selection-end-column="5" />
@@ -391,25 +422,36 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/isPanlindrome.java">
+    <entry file="file://$PROJECT_DIR$/src/LinkedList/isPanlindrome.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="209">
           <caret line="11" column="0" lean-forward="true" selection-start-line="4" selection-start-column="4" selection-end-line="11" selection-end-column="0" />
           <folding>
-            <element signature="e#0#1071#0" expanded="true" />
-            <element signature="e#270#271#0" expanded="true" />
-            <element signature="e#300#301#0" expanded="true" />
+            <element signature="e#0#1090#0" expanded="true" />
+            <element signature="e#289#290#0" expanded="true" />
+            <element signature="e#319#320#0" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/sumList2.java">
+    <entry file="file://$PROJECT_DIR$/src/LinkedList/sumList2.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="570">
-          <caret line="81" column="20" lean-forward="false" selection-start-line="81" selection-start-column="20" selection-end-line="81" selection-end-column="20" />
+          <caret line="83" column="20" lean-forward="false" selection-start-line="83" selection-start-column="20" selection-end-line="83" selection-end-column="20" />
           <folding>
-            <element signature="e#169#170#0" expanded="true" />
-            <element signature="e#199#200#0" expanded="true" />
+            <element signature="e#190#191#0" expanded="true" />
+            <element signature="e#220#221#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/LinkedList/findIntersection.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="266">
+          <caret line="14" column="0" lean-forward="false" selection-start-line="14" selection-start-column="0" selection-end-line="14" selection-end-column="0" />
+          <folding>
+            <element signature="e#167#168#0" expanded="true" />
+            <element signature="e#197#198#0" expanded="true" />
           </folding>
         </state>
       </provider>

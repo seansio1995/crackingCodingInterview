@@ -1,3 +1,5 @@
+package LinkedList;
+
 import java.util.Stack;
 // store the first half of list into a stack
 // and compare the second half to the stack

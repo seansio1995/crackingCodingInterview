@@ -1,3 +1,5 @@
+package LinkedList;
+
 import java.util.HashSet;
 
 public class deleteDuplicate {

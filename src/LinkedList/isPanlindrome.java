@@ -1,4 +1,4 @@
-// this method just reverse the original linked list and
+package LinkedList;// this method just reverse the original linked list and
 // compare the two lists to see if they are equal (Straight forward)
 
 public class isPanlindrome {
