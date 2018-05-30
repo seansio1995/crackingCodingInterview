@@ -71,4 +71,14 @@ public class sumList2 {
 
         return node;
     }
+
+    int length(LinkedListNode node){
+        int size=0;
+        while(node!=null){
+            size+=1;
+            node=node.next;
+        }
+
+        return size;
+    }
 }
