@@ -2,19 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="dfad61ef-51aa-4524-84db-d152caef3793" name="Default" comment="">
-      <change type="MOVED" beforePath="$PROJECT_DIR$/src/createLinkedList.java" afterPath="$PROJECT_DIR$/src/LinkedList/createLinkedList.java" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/src/deleteDuplicate.java" afterPath="$PROJECT_DIR$/src/LinkedList/deleteDuplicate.java" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/src/deleteDuplicate2.java" afterPath="$PROJECT_DIR$/src/LinkedList/deleteDuplicate2.java" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/src/deleteMiddleNode.java" afterPath="$PROJECT_DIR$/src/LinkedList/deleteMiddleNode.java" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/src/deleteNode.java" afterPath="$PROJECT_DIR$/src/LinkedList/deleteNode.java" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/src/isPanlindrome.java" afterPath="$PROJECT_DIR$/src/LinkedList/isPanlindrome.java" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/src/isPanlindrome2.java" afterPath="$PROJECT_DIR$/src/LinkedList/isPanlindrome2.java" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/src/linkedListPartition.java" afterPath="$PROJECT_DIR$/src/LinkedList/linkedListPartition.java" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/src/linkedListPartition2.java" afterPath="$PROJECT_DIR$/src/LinkedList/linkedListPartition2.java" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/src/printKthToLast.java" afterPath="$PROJECT_DIR$/src/LinkedList/printKthToLast.java" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/src/printKthToLast2.java" afterPath="$PROJECT_DIR$/src/LinkedList/printKthToLast2.java" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/src/sumList.java" afterPath="$PROJECT_DIR$/src/LinkedList/sumList.java" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/src/sumList2.java" afterPath="$PROJECT_DIR$/src/LinkedList/sumList2.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/LinkedList/findIntersection.java" afterPath="$PROJECT_DIR$/src/LinkedList/findIntersection.java" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -56,11 +44,11 @@
       <file leaf-file-name="findIntersection.java" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/LinkedList/findIntersection.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="266">
-              <caret line="14" column="0" lean-forward="false" selection-start-line="14" selection-start-column="0" selection-end-line="14" selection-end-column="0" />
+            <state relative-caret-position="662">
+              <caret line="73" column="22" lean-forward="false" selection-start-line="73" selection-start-column="22" selection-end-line="73" selection-end-column="22" />
               <folding>
-                <element signature="e#167#168#0" expanded="true" />
-                <element signature="e#197#198#0" expanded="true" />
+                <element signature="e#172#173#0" expanded="true" />
+                <element signature="e#204#205#0" expanded="true" />
               </folding>
             </state>
           </provider>
@@ -286,6 +274,7 @@
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="0" width="1280" height="800" extended-state="0" />
+    <editor active="true" />
     <layout>
       <window_info id="Palette" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
@@ -299,7 +288,7 @@
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
       <window_info id="Capture Tool" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
       <window_info id="Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
-      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.24921875" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.24921875" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="UI Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
@@ -447,11 +436,11 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/LinkedList/findIntersection.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="266">
-          <caret line="14" column="0" lean-forward="false" selection-start-line="14" selection-start-column="0" selection-end-line="14" selection-end-column="0" />
+        <state relative-caret-position="662">
+          <caret line="73" column="22" lean-forward="false" selection-start-line="73" selection-start-column="22" selection-end-line="73" selection-end-column="22" />
           <folding>
-            <element signature="e#167#168#0" expanded="true" />
-            <element signature="e#197#198#0" expanded="true" />
+            <element signature="e#172#173#0" expanded="true" />
+            <element signature="e#204#205#0" expanded="true" />
           </folding>
         </state>
       </provider>
